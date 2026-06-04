@@ -9,6 +9,12 @@ chabot_env
 ```bash
 pip install streamlit
 pip install openai
+pip install streamlit-js-eval
+```
+## or just run:
+
+```bash
+pip install -r ./requirements.txt
 ```
 ## run streamlit:
 
