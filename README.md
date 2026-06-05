@@ -1,8 +1,7 @@
-## create environment:
-
-```bash
-chabot_env
-```
+## api settings
+Create a folder called **.streamlit**
+and inside a file named **secrets.toml** to store your api key from OpenAI.
+OPENAI_API_KEY = "your-api-key-here"
 
 ## install dependencies:
 
